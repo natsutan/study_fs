@@ -27,8 +27,6 @@ let drawCombileChart =
     printf "%s\n"  output_file
 
 
-
-
 [<EntryPoint>]
 let main argv =
     drawPoint |> ignore
